@@ -2,10 +2,12 @@
 
 ## Question 1
 **Feynman Technique**
+
 The Feynman Technique is explaining something to someone in simple terms, like teaching a friend. Which helps him understand it better.
 
 ## Question 2
 **Most Interesting Idea from Barbara Oakley’s TED Talk**
+
 The most interesting part for me was when she shared how she struggled with maths in the past but become a master of it later. It shows that with the right approach, anything is achiveable.
 
 ## Question 3
